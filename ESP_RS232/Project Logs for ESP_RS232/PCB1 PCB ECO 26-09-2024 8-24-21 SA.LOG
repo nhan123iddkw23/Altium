@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BOOT_ESP Pin=BT1-3
+Added Component: Designator=M1(MODULE-TP4056)
+Added Pin To Net: NetName=GND Pin=M1-3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Member To Class: ClassName=Sheet2 Member=Component M1 MODULE-TP4056

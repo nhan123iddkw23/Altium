@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J1 Old Footprint=HARWIN_M30-6000446 New Footprint=MOLEX_532617004
+Change Component Comment : Designator=J1 Old Comment=M30-6000446 New Comment=532617004
+Change component parameters: Designator = "J1" ("J1"); Footprint = "HARWIN_M30-6000446"; UniqueID = "\MZZFQJAX" ("\MZZFQJAX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "532617004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

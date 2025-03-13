@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=BOOT NewDesignator=BT1
+Change Component Designator: OldDesignator=ESP32 NewDesignator=U1
+Change Component Designator: OldDesignator=RST NewDesignator=BT2
+Change Component Designator: OldDesignator=UART2 NewDesignator=H1
+Change Component Designator: OldDesignator=USB NewDesignator=USB1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Room: Name=Sheet9

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=LED1 Pin=L5-2
+Removed Pin From Net: NetName=LED2 Pin=L6-2
+Removed Pin From Net: NetName=LED3 Pin=L7-2
+Removed Pin From Net: NetName=+3.3V Pin=R8-2
+Removed Pin From Net: NetName=+3.3V Pin=R9-2
+Removed Pin From Net: NetName=+3.3V Pin=R11-2
+Removed Pin From Net: NetName=+3.3V Pin=R12-2
+Removed Member From Class: ClassName=Sheet2 Member=L5
+Removed Member From Class: ClassName=Sheet2 Member=L6
+Removed Member From Class: ClassName=Sheet2 Member=L7
+Removed Member From Class: ClassName=Sheet2 Member=L8
+Removed Member From Class: ClassName=Sheet2 Member=R9
+Removed Member From Class: ClassName=Sheet2 Member=R11
+Removed Member From Class: ClassName=Sheet2 Member=R12
+Added Component: Designator=LED1(LED RGB-5MM-RA)
+Added Pin To Net: NetName=LED2 Pin=LED1-B
+Added Pin To Net: NetName=LED1 Pin=LED1-G
+Added Pin To Net: NetName=LED3 Pin=LED1-R
+Added Pin To Net: NetName=+3.3V Pin=R8-1
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R8-2
+Added Net: Name=NetLED1_A
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 LED-RGB

@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=BOOT_ESP Pin=BOOT-3
+Removed Pin From Net: NetName=+3.3V Pin=JP1-1
+Removed Pin From Net: NetName=TX0 Pin=JP1-2
+Removed Pin From Net: NetName=RX0 Pin=JP1-3
+Removed Pin From Net: NetName=GND Pin=JP1-4
+Removed Member From Class: ClassName=Sheet2 Member=JP1
+Change Component Designator: OldDesignator=AMS1117 NewDesignator=AMS1
+Change Component Designator: OldDesignator=BOOT NewDesignator=BT1
+Change Component Designator: OldDesignator=CONNECT NewDesignator=D8
+Change Component Designator: OldDesignator=DISCONNECT NewDesignator=D7
+Change Component Designator: OldDesignator=MAX3232 NewDesignator=U
+Change Component Designator: OldDesignator=PIN_25 NewDesignator=D4
+Change Component Designator: OldDesignator=PIN_50 NewDesignator=D3
+Change Component Designator: OldDesignator=PIN_75 NewDesignator=D2
+Change Component Designator: OldDesignator=PIN_100 NewDesignator=D1
+Change Component Designator: OldDesignator=RESET NewDesignator=BT2
+Change Component Designator: OldDesignator=RX NewDesignator=D6
+Change Component Designator: OldDesignator=TX NewDesignator=D5
+Change Component Designator: OldDesignator=VCC NewDesignator=D9
+Added Component: Designator=J1(HARWIN_M30-6000446)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "M30-6000446"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=J1-1
+Added Pin To Net: NetName=TX0 Pin=J1-2
+Added Pin To Net: NetName=RX0 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Member To Class: ClassName=Sheet2 Member=Component J1 M30-6000446

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=BOOT_ESP Pin=SW1-2
+Removed Pin From Net: NetName=BOOT_ESP Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=GND Pin=SW2-1
+Removed Pin From Net: NetName=RESET_ESP Pin=SW2-2
+Removed Pin From Net: NetName=RESET_ESP Pin=SW2-3
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Removed Member From Class: ClassName=Sheet9 Member=SW1
+Removed Member From Class: ClassName=Sheet9 Member=SW2
+Added Component: Designator=BT1(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=BT2(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BOOT_ESP Pin=BT1-2
+Added Pin To Net: NetName=RESET_ESP Pin=BT2-2
+Added Member To Class: ClassName=Sheet9 Member=Component BT1 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=Sheet9 Member=Component BT2 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Room: Name=Sheet9
